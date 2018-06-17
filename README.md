@@ -7,7 +7,7 @@
  传统的布局方式基于盒模型,依赖`display` `position` `float`等属性来完成。  
  大多情况下能确实能制作日常需求,但对于个别案例来说显得力不从心,比如垂直居中就不容易实现。  
  附上我网上找的布局,几个小栗子来练手,纯手写绝无复制粘贴。  
- ### [练习demo](https://erwin0929.github.io/Flex/) 
+ ### <a href="https://erwin0929.github.io/Flex/" target="_blank">[练习demo]</a>
  
 > Flex
 
